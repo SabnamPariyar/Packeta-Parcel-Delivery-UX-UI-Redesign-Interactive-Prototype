@@ -1,32 +1,55 @@
-# Packeta — Parcel Delivery UX/UI Redesign & Interactive Prototype
+# PACKETA — Every parcel. One clear journey.
 
-**Independent UX/UI design concept by Sabnam Pariyar**
+![Packeta — Every parcel. One clear journey](docs/packeta-cover.svg)
 
-[**Launch interactive demo**](https://sabnampariyar.github.io/Packeta-Parcel-Delivery-UX-UI-Redesign-Interactive-Prototype/) · [Private preview](https://sabnam-packeta-concept-2026.sandeep-pariyar.chatgpt.site)
+[![Launch Packeta interactive prototype](docs/preview-button.svg)](https://sabnam-packeta-concept-2026.sandeep-pariyar.chatgpt.site)
 
-An interactive parcel-delivery UX concept featuring shipment tracking, pickup-point selection, guided returns, a reusable design system, moodboard and case study.
+*Explore the delivery experience, then switch to the interactive design system, moodboard and design process.*
 
-## What's included
+*An independent product UX/UI case study by Sabnam Pariyar.*
 
-- **Experience:** Live interactive UI with three fictional shipments, step-based tracking, a demo pickup location map, search, return and sending flows.
-- **Design system:** Color palette, typography, spacing scale, buttons, inputs, status badges and component anatomy.
-- **Moodboard:** Photographic references that inform the visual design.
-- **Design process:** Opportunity framing, three user journeys, design rationale, proposed usability tests.
+I designed this Packeta concept to explore a familiar everyday moment: a parcel is on its way, someone wants to know when it will arrive, and the next step should feel obvious rather than uncertain.
 
-### Try the prototype
+This responsive prototype brings parcel tracking, pickup-point selection and returns into one calm experience. It is a speculative exploration using fictional sample parcels, not an official Packeta product.
 
-Use example tracking IDs `PK-482901`, `PK-582470` and `PK-220184`. Choose a pickup point, simulate an update, or try the sample return flow. All data is fictional.
+## Explore the experience
 
-## Technology
+The prototype is at the centre of the project. Select a shipment, simulate a status change, compare illustrative Prague pickup locations, or try the simple return flow. Continue into the **Design system** and **Moodboard** to see the thinking behind the interface.
 
-Standalone semantic HTML, CSS and JavaScript; responsive UI and GitHub Pages. No build step or package dependencies. To run locally, open `index.html` in a browser.
+### The design challenge
 
-## Design direction
+Delivery interfaces must make complex logistics understandable. My design question was: **how can people feel informed and in control between checkout and collection?**
 
-Confident red, crisp neutrals, Manrope headings, DM Sans interface text, 8-point spacing rhythm, considered component states and subtle motion.
+I approached the problem through four principles:
 
-## About this work
+- **Clarity:** show where a parcel is and what its current status means.
+- **Confidence:** pair important updates with an obvious next action.
+- **Choice:** help people compare collection options at a glance.
+- **Consistency:** use a shared visual language across tracking, pickup and returns.
 
-This is an **unofficial speculative portfolio concept** and is not affiliated with, commissioned or endorsed by Packeta. Shipment records, pickup points and codes are illustrative. No live Packeta API is connected. Moodboard photographs are externally hosted Unsplash references and not original photographs by Sabnam. Usability improvements are design hypotheses, not verified research results.
+## What you can try
 
-**Concept:** Sabnam Pariyar · **Year:** 2026
+1. Open **PK-482901** to follow an in-transit parcel.
+2. Select **Simulate update** and see its status and timeline change.
+3. Switch to **PK-582470** to explore a parcel ready for collection.
+4. Choose among three fictional pickup locations and save a preference.
+5. Search a tracking number, try **Return item**, and inspect the sample pickup code.
+6. Open the **Design system** to explore colors, type, components and interactive states.
+7. Visit the **Moodboard** and **Design process** to see visual references and the project rationale.
+
+The demonstration uses fictional shipment data and an illustrative map. It is designed for exploration, not real package management.
+
+## Behind the design
+
+I included the design thinking inside the experience itself. The moodboard connects packaging materials, architecture and everyday movement to the visual direction. The design system shows the color tokens, typography, spacing, status treatments, buttons and cards used across the prototype.
+
+For a deeper view, read the [UX case study](docs/UX-CASE-STUDY.md) and [visual design system](docs/DESIGN-SYSTEM.md).
+
+## Scope and honesty
+
+Packeta is a real logistics company; this concept is **self-initiated and independent**, not commissioned, approved or endorsed by Packeta. The parcels, collection points, pickup codes and status updates are invented. The moodboard uses external photographic references. No user interviews, task-performance improvements or business results are claimed as validated.
+
+---
+
+**Sabnam Pariyar** · UX / Product Design · Finland
+
